@@ -1,2 +1,2 @@
 # MusicGussr
-guess song - link with last.fm / spotify / apple music
+guess song disord bot - link with last.fm / spotify / apple music
