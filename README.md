@@ -11,10 +11,10 @@ Spotify: https://developer.spotify.com/dashboard
 ngrok: https://ngrok.com/downloads/linux
 
 - Set up .env as follows:
+
 DISCORD_TOKEN=YOURTOKEN
 SPOTIFY_CLIENT_ID=CLIENTID
 SPOTIFY_CLIENT_SECRET=CLIENTSECRET
-
 SPOTIFY_REDIRECT_URI=https://4230-99-125-127-215.ngrok-free.app/callback <- example
 BASE_URL=https://4230-99-125-127-215.ngrok-free.app <- example
 
