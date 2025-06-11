@@ -10,6 +10,8 @@ Spotify: https://developer.spotify.com/dashboard
 - Install ngrok for dev testing on localhost
 ngrok: https://ngrok.com/downloads/linux
 
+- Run ngrok on port 8888 with 'ngrok http 8888'
+
 - Set up .env as follows:
 
 DISCORD_TOKEN=YOURTOKEN
@@ -25,7 +27,7 @@ BASE_URL=https://4230-99-125-127-215.ngrok-free.app <- example
 
 ^^ Bottom 2 URLS are coming from ngrok
 
-- Run ngrok on port 8888 with 'ngrok http 8888'
+- Use 'source venv/bin/activate' for a virtual enviroment for python
 - Set the callback link to the ngrok link on spotify dev page
 - Run auth_server.py
 - Run bot.py
