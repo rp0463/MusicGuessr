@@ -4,7 +4,9 @@ guess song discord bot - link with last.fm / spotify / apple music
 # Setup
 
 - Get Tokens for Discord / Spotify here:
+
 Discord: https://discord.com/developers/applications
+
 Spotify: https://developer.spotify.com/dashboard
 
 - Install ngrok for dev testing on localhost
